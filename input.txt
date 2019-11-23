@@ -1,0 +1,39 @@
+{
+    "_id" : "2323d810-be9e-11e5-a111-b3a8088f3464",
+    "status" : "undeal",
+    "info" : {
+        "content" : "技术服务费",
+        "busLicense" : "N00000000170/invoice/2016-01-19/1453201866680/56024380-be9d-11e5-a3d0-9b0407b9425e",
+        "bankNo" : "41654655",
+        "taxpayerIdentify" : "N00000000170/invoice/2016-01-19/1453201896276/67a64140-be9d-11e5-a3d0-9b0407b9425e",
+        "invoiceTitle" : "北京容联七陌",
+        "registerAddr" : "北京市朝阳区xxx路",
+        "registerNo" : "15330644880",
+        "registerTel" : "010123456789",
+        "invoiceType" : "professional",
+        "taxCard" : "N00000000170/invoice/2016-01-19/1453201885090/60fb6820-be9d-11e5-a3d0-9b0407b9425e",
+        "_id" : "694942e0-be9d-11e5-81e7-81535e857f86",
+        "customerType" : "company",
+        "bank" : "456465"
+    },
+    "account" : "N00000000170",
+    "addr" : {
+        "userName" : "王大心",
+        "phone" : "211112222",
+        "post" : "2111",
+        "_id" : "5ba41600-9cfc-11e5-9e2f-cb16972af7dd",
+        "addr" : "北京"
+    },
+    "accountInvoiceType" : "normal",
+    "money" : "1000",
+    "memo" : "",
+    "sendType" : "express",
+    "invoiceNo" : "",
+    "payIds" : [ 
+        "BM20160119000026"
+    ],
+    "expressNo" : "",
+    "lastTime" : "2016-01-19 19:16:50",
+    "createTime" : "2016-01-19 19:16:50",
+    "transport" : ""
+}
