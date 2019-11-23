@@ -3,35 +3,6 @@ Interface:
 {
 _id: string;
 status: string;
-info: {
-  content: string;
-  busLicense: string;
-  bankNo: string;
-  taxpayerIdentify: string;
-  invoiceTitle: string;
-  registerAddr: string;
-  registerNo: string;
-  registerTel: string;
-  invoiceType: string;
-  taxCard: string;
-  _id: string;
-  customerType: string;
-  bank: string;
-};
-account: string;
-addr: {
-  userName: string;
-  phone: string;
-  post: string;
-  _id: string;
-  addr: string;
-};
-accountInvoiceType: string;
-money: string;
-memo: string;
-sendType: string;
-invoiceNo: string;
-payIds: [string];
 expressNo: string;
 lastTime: string;
 createTime: string;
@@ -43,35 +14,6 @@ Schema:
 {
 _id: String,
 status: String,
-info: {
-  content: String,
-  busLicense: String,
-  bankNo: String,
-  taxpayerIdentify: String,
-  invoiceTitle: String,
-  registerAddr: String,
-  registerNo: String,
-  registerTel: String,
-  invoiceType: String,
-  taxCard: String,
-  _id: String,
-  customerType: String,
-  bank: String,
-},
-account: String,
-addr: {
-  userName: String,
-  phone: String,
-  post: String,
-  _id: String,
-  addr: String,
-},
-accountInvoiceType: String,
-money: String,
-memo: String,
-sendType: String,
-invoiceNo: String,
-payIds: [String],
 expressNo: String,
 lastTime: String,
 createTime: String,
